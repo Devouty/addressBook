@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+f1295092-c8b6-48a5-9bf3-befa7c3546f3|dbb6b06e-5812-46f6-855e-1a6090c076d0|张三|广东广州|软件工程|13800138000|123456789@gmail.com|五山学生公寓
+87acb3d3-cee8-4b6d-b5be-47f276605fea|dbb6b06e-5812-46f6-855e-1a6090c076d0|李四| |网络工程|10086| |天河区五山路
+537dc674-f82d-43ba-abf9-a731ff7743eb|dbb6b06e-5812-46f6-855e-1a6090c076d0|王五| | |123456789| | 
+1b6730fa-4983-4bc3-b567-5cd190a36b1b|d29dfd7a-1fa1-46ae-a16f-602f0894192a|fhj| |植物|1654236| |越秀区
+fb08e778-3888-47f1-9a0b-b1b9035ccc7f|d29dfd7a-1fa1-46ae-a16f-602f0894192a|fhj|湛江| | | | 
+b4c1391a-043b-47d1-9404-c565e52e84d7|d29dfd7a-1fa1-46ae-a16f-602f0894192a|41894|连江| | | | 
+ea809259-9e6b-4342-9f1a-7dd5a971ed04|d29dfd7a-1fa1-46ae-a16f-602f0894192a|fwef|广州| | | | 
+0fb8fcfc-6f3c-4d7b-ad08-1c860fad2a18|d29dfd7a-1fa1-46ae-a16f-602f0894192a|fweg| |信息| | | 
+9ba4ba42-b8f4-481f-b705-723d81147f29|d29dfd7a-1fa1-46ae-a16f-602f0894192a|访问额外冯we| |信管| | | 
+5cac7e91-7391-4bee-bc80-f52841d52137|d29dfd7a-1fa1-46ae-a16f-602f0894192a|fewf|广州| | | | 
+fa4c7ffc-c28d-4d6a-b8e6-b9a2b3165aa2|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|全程|地球人| | |gmail.qq.com|diqiu
+b93ec3d8-d7d7-4999-aa29-7649baf1fcf1|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|1| | | |qq.com| 
+fa92a9f0-a52c-4c05-b712-5096e61ebd32|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|2|满| | |2|2
+5d530daf-4b5c-46ea-862d-92b4d5ec3f38|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|人类|汉| | |123.163.com|火星
+cf0d36c2-d3bb-47cc-887f-d1fccab2673b|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|非人类|满| | |没有|不定
+73f829a2-7d3c-43a8-b6e9-f02c839471c4|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|1| | | | | 
+756d3043-3c1e-45dd-9790-17538ee660f6|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|全程|地球人| | |gmail.qq.com|diqiu
+7429d0b9-66bc-4208-9be3-47bbf55c0aa5|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|1| | | |qq.com| 
+c7adf6a4-6656-4e29-b097-55ab7494e086|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|2|满| | |2|2
+33d1b167-0044-454f-9da5-c484ee3202c6|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|人类|汉| | |123.163.com|火星
+facf929e-484c-4c8e-8d09-4d6e0b93c956|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|非人类|满| | |没有|不定
+3da9eb25-5df7-44dc-acdc-761d227187dd|87f8b6a6-f043-42c1-ae2c-76f58f38e20b|1| | | | | 
+1cbc6c00-21d6-4512-98de-be106d9a362e|87f8b6a6-f043-42c1-ae2c-76f58f38e20b| |地球人| | |gmail.qq.com|diqiu
+0033de53-1b45-472c-852e-543dd9366cfb|87f8b6a6-f043-42c1-ae2c-76f58f38e20b| | | | |qq.com| 
+3db27aba-0f54-4a34-b848-7d6a0776a17e|87f8b6a6-f043-42c1-ae2c-76f58f38e20b| |满| | |2|2
+100e9dcf-87d7-4837-b30b-e4468bef2850|87f8b6a6-f043-42c1-ae2c-76f58f38e20b| |汉| | |123.163.com|火星
+bbbf201c-0dc1-4039-815e-15681de1bb85|87f8b6a6-f043-42c1-ae2c-76f58f38e20b| |满| | |没有|不定
+eca81e54-84a5-4e69-9606-c0660d16b4e7|87f8b6a6-f043-42c1-ae2c-76f58f38e20b| | | | | | 
+=======
+>>>>>>> b850589d9a1f5f514ef3eeb87291e15fb54ecfd0
